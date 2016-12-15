@@ -1,0 +1,8 @@
+C:\Users\Вита\documents\visual studio 2010\Projects\simple\simple\bin\Debug\simple.exe
+C:\Users\Вита\documents\visual studio 2010\Projects\simple\simple\bin\Debug\simple.pdb
+C:\Users\Вита\documents\visual studio 2010\Projects\simple\simple\bin\Debug\simple.xml
+C:\Users\Вита\documents\visual studio 2010\Projects\simple\simple\obj\x86\Debug\simple.Resources.resources
+C:\Users\Вита\documents\visual studio 2010\Projects\simple\simple\obj\x86\Debug\simple.vbproj.GenerateResource.Cache
+C:\Users\Вита\documents\visual studio 2010\Projects\simple\simple\obj\x86\Debug\simple.exe
+C:\Users\Вита\documents\visual studio 2010\Projects\simple\simple\obj\x86\Debug\simple.xml
+C:\Users\Вита\documents\visual studio 2010\Projects\simple\simple\obj\x86\Debug\simple.pdb
